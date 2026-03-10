@@ -1,0 +1,11 @@
+The video that gave me this idea, which I recreated in Python: https://youtu.be/8-B6ryuBkCM?si=vJWvqjlg4GiafRC5
+
+Background Reading:
+https://en.wikipedia.org/wiki/Black_hole
+https://en.wikipedia.org/wiki/Event_horizon
+https://en.wikipedia.org/wiki/Spacetime
+https://en.wikipedia.org/wiki/Accretion_disk
+https://en.wikipedia.org/wiki/Geodesics_in_general_relativity
+https://en.wikipedia.org/wiki/Schwarzschild_metric
+https://en.wikipedia.org/wiki/Schwarzschild_radius
+https://en.wikipedia.org/wiki/General_relativity
